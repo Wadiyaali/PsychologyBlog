@@ -1,0 +1,430 @@
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\StyleSheet2.css
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\StyleSheet2.min.css
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Feedbackpsycho.aspx
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Feedbackpsycho.aspx.cs
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Feedbackpsycho.aspx.designer.cs
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\webmaster.dll.config
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\webmaster.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\webmaster.pdb
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\csc.exe
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\csc.exe.config
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\csc.rsp
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\csi.exe
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\csi.exe.config
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\csi.rsp
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.AppContext.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Console.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\vbc.exe
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\vbc.exe.config
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\vbc.rsp
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\netstandard.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.AppContext.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Collections.Concurrent.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Collections.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Collections.NonGeneric.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Collections.Specialized.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ComponentModel.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ComponentModel.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Console.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Data.Common.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.Contracts.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.Debug.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.Process.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.Tools.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Diagnostics.Tracing.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Drawing.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Dynamic.Runtime.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Globalization.Calendars.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Globalization.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Globalization.Extensions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.Compression.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.FileSystem.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.IsolatedStorage.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.Pipes.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Linq.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Linq.Expressions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Linq.Parallel.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Linq.Queryable.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Http.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.NameResolution.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.NetworkInformation.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Ping.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Requests.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Security.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Sockets.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.WebSockets.Client.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.WebSockets.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ObjectModel.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Reflection.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Reflection.Extensions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Reflection.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Resources.Reader.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Resources.ResourceManager.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Resources.Writer.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Extensions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Handles.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.InteropServices.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Numerics.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Claims.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.Principal.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Security.SecureString.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.Encoding.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.RegularExpressions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Overlapped.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Tasks.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Thread.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.ThreadPool.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Timer.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Xml.ReaderWriter.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Xml.XDocument.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Xml.XmlDocument.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Xml.XmlSerializer.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Xml.XPath.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Extensions.Options.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.Security.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Newtonsoft.Json.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Owin.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Buffers.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ComponentModel.Annotations.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.Pipelines.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Memory.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Http.Formatting.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Numerics.Vectors.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.Encodings.Web.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.Json.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ValueTuple.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Web.Http.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Web.Http.Owin.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Extensions.Options.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.Security.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Newtonsoft.Json.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Buffers.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.IO.Pipelines.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Memory.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Net.Http.Formatting.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Numerics.Vectors.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.Encodings.Web.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Text.Json.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.ValueTuple.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Web.Http.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\System.Web.Http.Owin.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\obj\Debug\webmaster.csproj.CoreCompileInputs.cache
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\obj\Debug\webmaster.csproj.CopyComplete
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\obj\Debug\webmaster.dll
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\obj\Debug\webmaster.pdb
+C:\Users\Wadiya's PC\source\repos\webmaster\webmaster\obj\Debug\webmaster.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\StyleSheet2.css
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\StyleSheet2.min.css
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Feedbackpsycho.aspx
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Feedbackpsycho.aspx.cs
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Feedbackpsycho.aspx.designer.cs
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\webmaster.dll.config
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\webmaster.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\webmaster.pdb
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\netstandard.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.AppContext.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Collections.Concurrent.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Collections.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Collections.NonGeneric.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Collections.Specialized.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ComponentModel.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ComponentModel.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Console.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Data.Common.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.Contracts.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.Debug.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.Process.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.Tools.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.TraceSource.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Diagnostics.Tracing.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Drawing.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Dynamic.Runtime.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Globalization.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Globalization.Extensions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.Compression.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.IsolatedStorage.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.Pipes.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Linq.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Linq.Expressions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Linq.Parallel.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Linq.Queryable.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Http.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.NameResolution.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.NetworkInformation.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Ping.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Requests.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Security.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Sockets.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.WebHeaderCollection.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.WebSockets.Client.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.WebSockets.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ObjectModel.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Reflection.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Reflection.Extensions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Reflection.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Resources.Reader.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Resources.ResourceManager.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Resources.Writer.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Extensions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Handles.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.InteropServices.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Numerics.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Serialization.Json.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Claims.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Cryptography.Csp.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.Principal.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Security.SecureString.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.Encoding.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.Encoding.Extensions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.RegularExpressions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Overlapped.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Tasks.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Thread.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.ThreadPool.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Timer.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Xml.XDocument.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Xml.XmlSerializer.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Xml.XPath.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Owin.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Buffers.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Memory.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Http.Formatting.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.Json.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ValueTuple.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Web.Http.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Web.Http.Owin.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Extensions.Options.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Buffers.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Memory.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Net.Http.Formatting.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Text.Json.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.ValueTuple.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Web.Http.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\System.Web.Http.Owin.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\obj\Debug\webmaster.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\obj\Debug\webmaster.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\obj\Debug\webmaster.csproj.CopyComplete
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\obj\Debug\webmaster.dll
+C:\Users\HP\Desktop\webmaster\webmaster\webmaster\obj\Debug\webmaster.pdb
